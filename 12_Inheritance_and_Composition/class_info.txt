@@ -1,0 +1,63 @@
+Mr. Dagler
+HG-1
+10
+James Smith
+101 Main St., Elk Grove CA
+16
+111111
+10
+3.91
+Mary Johnson
+102 Main St., Elk Grove CA
+17
+222222
+11
+3.92
+John Williams
+103 Main St., Elk Grove CA
+15
+333333
+9
+3.93
+Patricia B.
+104 Main St., Elk Grove CA
+16
+444444
+10
+3.94
+Robert Jones
+105 Main St., Elk Grove CA
+14
+555555
+9
+3.95
+Jennifer M.
+106 Main St., Elk Grove CA
+17
+666666
+12
+3.96
+Michael Davis
+107 Main St., Elk Grove CA
+17
+777777
+12
+3.97
+Linda Garcia
+108 Main St., Elk Grove CA
+15
+888888
+10
+3.98
+William R.
+109 Main St., Elk Grove CA
+16
+999999
+11
+3.99
+Elizabeth W.
+100 Main St., Elk Grove CA
+18
+000000
+12
+3.90
